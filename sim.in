@@ -1,0 +1,10 @@
+numParticles = 27
+size [m] = 0.1
+timeStep [s] = 0.00001
+endTime [s] = 0.01
+highTemp [K] = 300
+lowTemp [K] = 290
+tempHighPct = 50
+tempLowPct = 50
+outputFile = ./outputFile.csv
+xyzOutputFile = ./output.xyz
